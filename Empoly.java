@@ -21,6 +21,6 @@ public class Empoly {
       System.out.println("你的名字："+ name);
       System.out.println("你的年龄："+ age);
       System.out.println("你的职位："+ designation);
-      System.out.println("你的薪水："+ salary);
+      System.out.println("薪水："+ salary);
    }
 }
