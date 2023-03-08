@@ -19,6 +19,6 @@ public class TestA {
         A b= new B();
         a.fangFa();
         b.fangFa();
-        b.fangFa1();
+        //b.fangFa1();
     }
 }
