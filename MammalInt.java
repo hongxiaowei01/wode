@@ -3,7 +3,7 @@ public class MammalInt implements Animal3{
         System.out.println("我睡了");
     }
     public void sleep3(){
-        System.out.println("我吃了");
+        System.out.println("我吃sile");
     }
     public int noOfLegs(){
         return 0;
